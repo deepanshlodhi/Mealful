@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mealful/static/css/main.bfd5f1a9.css",
-    "main.js": "/Mealful/static/js/main.19b321a4.js",
+    "main.css": "/Mealful/static/css/main.5f2ea0fc.css",
+    "main.js": "/Mealful/static/js/main.722b70bb.js",
     "static/js/787.6193e9d2.chunk.js": "/Mealful/static/js/787.6193e9d2.chunk.js",
     "index.html": "/Mealful/index.html",
-    "main.bfd5f1a9.css.map": "/Mealful/static/css/main.bfd5f1a9.css.map",
-    "main.19b321a4.js.map": "/Mealful/static/js/main.19b321a4.js.map",
+    "main.5f2ea0fc.css.map": "/Mealful/static/css/main.5f2ea0fc.css.map",
+    "main.722b70bb.js.map": "/Mealful/static/js/main.722b70bb.js.map",
     "787.6193e9d2.chunk.js.map": "/Mealful/static/js/787.6193e9d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfd5f1a9.css",
-    "static/js/main.19b321a4.js"
+    "static/css/main.5f2ea0fc.css",
+    "static/js/main.722b70bb.js"
   ]
 }
